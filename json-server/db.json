@@ -1,0 +1,670 @@
+{
+  "global-navigation": [
+    {
+      "name": "事業紹介",
+      "url": "https://www.shinwart.co.jp/business/",
+      "target": null,
+      "items": [
+        {
+          "name": "システム・ソリューション",
+          "url": "https://www.shinwart.co.jp/business/application",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_01.png",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "ITインフラ",
+          "url": "https://www.shinwart.co.jp/business/infrastructure-operation",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_03.png",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "テクノロジー",
+          "url": "https://www.shinwart.co.jp/business/technology",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_02.png",
+            "width": "250",
+            "height": "100"
+          }
+        }
+      ]
+    },
+    {
+      "name": "サービス紹介",
+      "url": "https://www.shinwart.co.jp/relatedservice.html",
+      "target": null,
+      "items": []
+    },
+    {
+      "name": "事例紹介",
+      "url": "https://www.shinwart.co.jp/business/solution/case/",
+      "target": null,
+      "items": []
+    },
+    {
+      "name": "企業情報",
+      "url": "https://www.shinwart.co.jp/company/",
+      "target": null,
+      "items": [
+        {
+          "name": "社長メッセージ",
+          "url": "https://www.shinwart.co.jp/company/message.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_04.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "経営理念・事業計画",
+          "url": "https://www.shinwart.co.jp/company/vision.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_05.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "会社概要",
+          "url": "https://www.shinwart.co.jp/company/outline.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_06.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "沿革",
+          "url": "https://www.shinwart.co.jp/company/history.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_07.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "鈴与シンワートについて知る",
+          "url": "https://www.shinwart.co.jp/company/about.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_08.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "事業所一覧",
+          "url": "https://www.shinwart.co.jp/company/office.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_09.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "組織図",
+          "url": "https://www.shinwart.co.jp/company/soshiki.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_10.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "認定・認証",
+          "url": "https://www.shinwart.co.jp/company/certification.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_11.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "サステナビリティ",
+          "url": "https://www.shinwart.co.jp/company/sustainability.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/images/common/child_thumb02_12.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "健康経営",
+          "url": "https://www.shinwart.co.jp/company/health.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_13.png",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "鈴与グループ",
+          "url": "https://www.shinwart.co.jp/company/suzuyogroup.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_14.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "共生（ともいき）",
+          "url": "https://www.shinwart.co.jp/company/tomoiki.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_12.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        }
+      ]
+    },
+    {
+      "name": "IR情報",
+      "url": "https://www.shinwart.co.jp/ir/",
+      "target": null,
+      "items": [
+        {
+          "name": "経営指標の推移",
+          "url": "https://www.shinwart.co.jp/ir/managementindicators.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_15.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "IRニュース",
+          "url": "https://www.shinwart.co.jp/ir/news.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_16.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "IRカレンダー",
+          "url": "https://www.shinwart.co.jp/ir/calender.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_17.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "コーポレートガバナンス",
+          "url": "https://www.shinwart.co.jp/ir/governance.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_18.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "ディスクロージャーポリシー",
+          "url": "https://www.shinwart.co.jp/ir/disclosure.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_19.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "株主メモ",
+          "url": "https://www.shinwart.co.jp/ir/faq.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_20.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        },
+        {
+          "name": "電子公告",
+          "url": "https://www.shinwart.co.jp/ir/kokoku.html",
+          "target": null,
+          "thumbnail": {
+            "src": "https://www.shinwart.co.jp/assets/img/common/gnav_21.jpg",
+            "width": "250",
+            "height": "100"
+          }
+        }
+      ]
+    },
+    {
+      "name": "採用",
+      "url": "https://www.shinwart.co.jp/recruitment/",
+      "target": null,
+      "items": []
+    },
+    {
+      "name": "お問い合わせ",
+      "url": "https://www.shinwart.co.jp/inquiry/",
+      "target": null,
+      "items": []
+    }
+  ],
+  "hero-links": [
+    {
+      "name": "物流のシステム化",
+      "url": "https://logistics.shinwart.co.jp/logistics-it-consulting-service/",
+      "target": "_blank"
+    },
+    {
+      "name": "ロジティクス領域の最適化",
+      "url": "https://logistics.shinwart.co.jp/logistics-consulting-service/",
+      "target": "_blank"
+    },
+    {
+      "name": "人事申請書類の電子化",
+      "url": "https://s-paycial.shinwart.co.jp/solution/jinjikyuyo/webhr/",
+      "target": "_blank"
+    },
+    {
+      "name": "給与アウトソーシング",
+      "url": "https://s-paycial.shinwart.co.jp/solution/jinjikyuyo/bpo-spaycial/",
+      "target": "_blank"
+    },
+    {
+      "name": "データセンター",
+      "url": "https://s-port.shinwart.com/service/center/",
+      "target": "_blank"
+    },
+    {
+      "name": "リモートワーク向けPC",
+      "url": "https://s-port.shinwart.com/service/solution/secure-mobilework-pc/",
+      "target": "_blank"
+    },
+    {
+      "name": "運転前アルコールチェック＆検温",
+      "url": "https://suzu1.shinwart.com/asarepo/",
+      "target": "_blank"
+    },
+    {
+      "name": "デジタルマーケティングの促進",
+      "url": "https://www.shinwart.co.jp/business/application/digital-marketing/",
+      "target": "_blank"
+    }
+  ],
+  "news": [
+    {
+      "date": "2023-06-09",
+      "tag": {
+        "name": "新人研修",
+        "hex": "#e770aa"
+      },
+      "category": "その他",
+      "name": "DBS 1G 新人研修が開催決定",
+      "url": "/",
+      "target": null
+    },
+    {
+      "date": "2023-01-11",
+      "tag": {
+        "name": "コラム",
+        "hex": "#e66c00"
+      },
+      "category": "ニュース",
+      "name": "溝口知実氏『かゆいところに手が届く労務管理のツボ』第58回「キャリアアップ助成金正社員化コース　令和4年10月からの変更点」が公開されました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20230111-1.html",
+      "target": null
+    },
+    {
+      "date": "2023-01-10",
+      "tag": {
+        "name": "コラム",
+        "hex": "#0074be"
+      },
+      "category": "ニュース",
+      "name": "小笠原真奈武氏『企業のお悩みをデータセンターサービスで解決』第5回「サイジングとは？オンプレミスとクラウドサービスの考え方の違いを解説」が公開されました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20230110-1.html",
+      "target": null
+    },
+    {
+      "date": "2023-01-06",
+      "tag": {
+        "name": "コラム",
+        "hex": "#d71072"
+      },
+      "category": "ニュース",
+      "name": "蜂巣稔氏のコラム『物流業界経験者による物流DXお役立ちコラム』第4回「物流コンサルティングの重要性。他者の視点で自社を見る」が公開されました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20230106-1.html",
+      "target": null
+    },
+    {
+      "date": "2023-01-05",
+      "tag": {
+        "name": "コラム",
+        "hex": "#e66c00"
+      },
+      "category": "ニュース",
+      "name": "川島孝一氏『ますます重要になる人事・労務のコンプライアンス』第115回「健康経営について」が公開されました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20230105-1.html",
+      "target": null
+    },
+    {
+      "date": "2022-12-29",
+      "tag": {
+        "name": "コラム",
+        "hex": "#0074be"
+      },
+      "category": "ニュース",
+      "name": "マーケティング担当『データセンターサービスとクラウドサービスの活用コラム』第5回「ハウジングサービスとコロケーションの違いとは？」が公開されました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20221219-1.html",
+      "target": null
+    },
+    {
+      "date": "2022-12-15",
+      "tag": {
+        "name": "コラム",
+        "hex": "#000080"
+      },
+      "category": "ニュース",
+      "name": "マーケティング部コラム担当『クラウドサービスを利用したソリューションで、より良い社会に！』第16回「運転日報とは？」が公開されました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20221215-1.html",
+      "target": null
+    },
+    {
+      "date": "2022-12-12",
+      "tag": {
+        "name": "コラム",
+        "hex": "#e66c00"
+      },
+      "category": "ニュース",
+      "name": "マーケティング担当『人事・給与・勤怠業務と財務・会計業務ソリューションに関するコラム』第5回「残業を削減するためにはどんな取り組みが有効なの？②」が公開されました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20221212-1.html",
+      "target": null
+    },
+    {
+      "date": "2022-12-09",
+      "tag": {
+        "name": "コラム",
+        "hex": "#0074be"
+      },
+      "category": "ニュース",
+      "name": "マーケティング担当『データセンターサービスとクラウドサービスの活用コラム』第4回「テレワークを定着させる方法とは？」が公開されました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20221209-1.html",
+      "target": null
+    },
+    {
+      "date": "2022-11-29",
+      "tag": {
+        "name": "事例",
+        "hex": "#666"
+      },
+      "category": "プレス・リリース",
+      "name": "鈴与シンワート、スポーツ用品店業界シェアNo.1の株式会社アルペンに統合HCMパッケージ「POSITIVE」を導入",
+      "url": "https://www.shinwart.co.jp/press/doc/20221129-1.html",
+      "target": null
+    },
+    {
+      "date": "2022-11-16",
+      "tag": {
+        "name": "お知らせ",
+        "hex": "#66acd8"
+      },
+      "category": "プレス・リリース",
+      "name": "鈴与シンワート、次世代EDRサービス『Singularity XDR』の取り扱いを開始",
+      "url": "https://www.shinwart.co.jp/press/doc/20221116-1.html",
+      "target": null
+    },
+    {
+      "date": "2022-10-13",
+      "tag": {
+        "name": "お知らせ",
+        "hex": "#66acd8"
+      },
+      "category": "プレス・リリース",
+      "name": "鈴与シンワート、GMOメイクショップ、ハートコアが協業しECのワンストップソリューションの提供を開始",
+      "url": "https://www.shinwart.co.jp/press/doc/20221013.html",
+      "target": null
+    }
+  ],
+  "footer-navigation": {
+    "primary": [
+      {
+        "name": "事業紹介",
+        "url": "https://www.shinwart.co.jp/business/",
+        "target": "",
+        "items": [
+          {
+            "name": "システム・ソリューション",
+            "url": "https://www.shinwart.co.jp/business/application/",
+            "target": ""
+          },
+          {
+            "name": "ITインフラ",
+            "url": "https://www.shinwart.co.jp/business/infrastructure-operation/",
+            "target": ""
+          },
+          {
+            "name": "システム・ディベロップメント",
+            "url": "https://www.shinwart.co.jp/business/si/",
+            "target": ""
+          }
+        ]
+      },
+      {
+        "name": "サービス紹介",
+        "url": "https://www.shinwart.co.jp/relatedservice.html",
+        "target": "",
+        "items": []
+      },
+      {
+        "name": "事例紹介",
+        "url": "https://www.shinwart.co.jp/business/solution/case/",
+        "target": "",
+        "items": []
+      },
+      {
+        "name": "製品詳細",
+        "url": "https://www.shinwart.co.jp/service/",
+        "target": "",
+        "items": [
+          {
+            "name": "HeartCore",
+            "url": "https://www.shinwart.co.jp/service/heartcore/",
+            "target": ""
+          },
+          {
+            "name": "POWER EGG 3.0",
+            "url": "https://www.shinwart.co.jp/service/poweregg/",
+            "target": ""
+          },
+          {
+            "name": "webメール",
+            "url": "https://www.shinwart.co.jp/service/webmail.html",
+            "target": ""
+          },
+          {
+            "name": "System Support best1",
+            "url": "https://www.shinwart.co.jp/service/SS1/",
+            "target": ""
+          }
+        ]
+      },
+      {
+        "name": "企業情報",
+        "url": "https://www.shinwart.co.jp/company/",
+        "target": "",
+        "items": [
+          {
+            "name": "社長メッセージ",
+            "url": "https://www.shinwart.co.jp/company/message.html",
+            "target": ""
+          },
+          {
+            "name": "経営理念・事業計画",
+            "url": "https://www.shinwart.co.jp/company/vision.html",
+            "target": ""
+          },
+          {
+            "name": "会社概要",
+            "url": "https://www.shinwart.co.jp/company/outline.html",
+            "target": ""
+          },
+          {
+            "name": "沿革",
+            "url": "https://www.shinwart.co.jp/company/history.html",
+            "target": ""
+          },
+          {
+            "name": "鈴与シンワートについて知る",
+            "url": "https://www.shinwart.co.jp/company/about.html",
+            "target": ""
+          },
+          {
+            "name": "事業所一覧",
+            "url": "https://www.shinwart.co.jp/company/office.html",
+            "target": ""
+          },
+          {
+            "name": "組織図",
+            "url": "https://www.shinwart.co.jp/company/soshiki.html",
+            "target": ""
+          },
+          {
+            "name": "認定・認証",
+            "url": "https://www.shinwart.co.jp/company/certification.html",
+            "target": ""
+          },
+          {
+            "name": "サステナビリティ",
+            "url": "https://www.shinwart.co.jp/company/sustainability.html",
+            "target": ""
+          },
+          {
+            "name": "健康経営",
+            "url": "https://www.shinwart.co.jp/company/health.html",
+            "target": ""
+          },
+          {
+            "name": "鈴与グループ",
+            "url": "https://www.shinwart.co.jp/company/suzuyogroup.html",
+            "target": ""
+          },
+          {
+            "name": "共生（ともいき）",
+            "url": "https://www.shinwart.co.jp/company/tomoiki.html",
+            "target": ""
+          }
+        ]
+      },
+      {
+        "name": "プレス・リリース",
+        "url": "https://www.shinwart.co.jp/press/",
+        "target": "",
+        "items": []
+      },
+      {
+        "name": "NEWS",
+        "url": "https://www.shinwart.co.jp/news/",
+        "target": "",
+        "items": []
+      },
+      {
+        "name": "採用",
+        "url": "https://www.shinwart.co.jp/recruitment/",
+        "target": "",
+        "items": [
+          {
+            "name": "新卒採用",
+            "url": "https://recruit.shinwart.co.jp/",
+            "target": "_blank"
+          },
+          {
+            "name": "キャリア採用",
+            "url": "https://recruit.shinwart.co.jp/career/",
+            "target": "_blank"
+          },
+          {
+            "name": "障がい者採用",
+            "url": "https://shinwart.snar.jp/jobboard/detail.aspx?id=kxSnWVQQ3so",
+            "target": "_blank"
+          }
+        ]
+      },
+      {
+        "name": "IR情報",
+        "url": "https://www.shinwart.co.jp/ir/",
+        "target": "",
+        "items": [
+          {
+            "name": "経営指標の推移",
+            "url": "https://www.shinwart.co.jp/ir/managementindicators.html",
+            "target": ""
+          },
+          {
+            "name": "IRニュース",
+            "url": "https://www.shinwart.co.jp/ir/news.html",
+            "target": ""
+          },
+          {
+            "name": "IRカレンダー",
+            "url": "https://www.shinwart.co.jp/ir/calender.html",
+            "target": ""
+          },
+          {
+            "name": "コーポレートガバナンス",
+            "url": "https://www.shinwart.co.jp/ir/governance.html",
+            "target": ""
+          },
+          {
+            "name": "ディスククロージャーポリシー",
+            "url": "https://www.shinwart.co.jp/ir/disclosure.html",
+            "target": ""
+          },
+          {
+            "name": "株主メモ",
+            "url": "https://www.shinwart.co.jp/ir/faq.html",
+            "target": ""
+          },
+          {
+            "name": "電子広告",
+            "url": "https://www.shinwart.co.jp/ir/kokoku.html",
+            "target": ""
+          }
+        ]
+      }
+    ],
+    "secondary": [
+      {
+        "name": "プライバシー・ポリシー",
+        "url": "https://www.shinwart.co.jp/privacypolicy.html",
+        "target": ""
+      },
+      {
+        "name": "情報セキュリティー方針",
+        "url": "https://www.shinwart.co.jp/securitypolicy.html",
+        "target": ""
+      },
+      {
+        "name": "サイトマップ",
+        "url": "https://www.shinwart.co.jp/sitemap.html",
+        "target": ""
+      }
+    ]
+  }
+}

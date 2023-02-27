@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist/docs/assets/js/**
+dist/docs/common/js/**
+dist/docs/*.html
+dist/includes
+*.local
+
+aftereffects/Adobe After Effects 自動保存

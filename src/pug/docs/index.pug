@@ -1,0 +1,14 @@
+extends ../includes/layouts/layout--default.pug
+
+block vars
+  - var title = "Hands-On | Frontend | 2022 SSC"
+  - var description = ""
+  - var type = "website"
+
+block main
+  hero(src="https://www.shinwart.co.jp/assets/img/top/mainvisual.png")
+    template(#title) もっと、未来をスマートに
+    template(#tagline) お客様のベストパートナーを目指して、<br>変革とチャレンジを実行します。
+  news-section
+    heading(:level="2" ruby="ニュース") News
+    news(src="/api/v1/news")
