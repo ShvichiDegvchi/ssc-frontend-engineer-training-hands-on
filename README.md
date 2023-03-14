@@ -4,7 +4,7 @@ PowerShell（管理者モード: ON） で
 
 1. `wsl --install`
 2. PC 再起動
-3. Ubuntu（自動で起動）でユーザ名とパスワードを設定
+3. Ubuntu「ウブントゥ」（自動で起動）でユーザ名とパスワードを設定
 4. VS Code のターミナルで WSL を選択
 
 ---
