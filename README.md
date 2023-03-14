@@ -12,8 +12,9 @@ PowerShell（管理者モード: ON） で
 `touch ~/.sudo_as_admin_successful`
 
 ### アップデート
-1. `sudo apt update`
-2. `sudo apt upgrade`
+`sudo apt update && sudo apt upgrade`
+
+※ パスワードを要求されるので、Ubuntu の初回設定で設定したパスワードを入力する
 
 ---
 ## Volta
