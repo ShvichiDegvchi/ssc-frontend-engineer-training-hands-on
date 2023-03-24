@@ -133,7 +133,7 @@
     "👹 Pug から `./dist/docs/__template/**/*.html` を出力": "",
     "build:pug": "pug src/pug --hierarchy -o dist -b src/pug -P --doctype html",
     "👹 Pug から出力される不要な html ファイルを消去": "",
-    "build:clean": "rimraf \"dist/includes/**/*.html\"",
+    "build:clean": "rimraf --glob \"dist/includes/**/*.html\"",
     "👹 html を整形": "",
     "build:format": "prettier --write \"dist/docs/*.html\"",
     "👹 html を圧縮": "",
