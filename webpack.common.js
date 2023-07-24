@@ -44,14 +44,7 @@ module.exports = {
             options: {
               implementation: require.resolve('sass'),
               sourceMap: process.env.NODE_ENV === 'development' ? true : false,
-              sassOptions: {
-                /**
-                 * @description Windows で fibers を install するために、いろいろ設定が複雑（Python の install など）であるため
-                 *              fibers は install しない。package.json からも消しておく。
-                 * @link https://zenn.dev/badpingpong/articles/ba59bf557406fd
-                 */
-                // fiber: require('fibers'),
-              },
+              sassOptions: {},
             },
           },
         ],
