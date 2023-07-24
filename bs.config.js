@@ -1,12 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 
-const docs = './dist/docs/';
+const docs = './publish/';
 
 module.exports = {
 	server: {
 		baseDir: docs,
-		directory: true
+		directory: false
 	},
 	files: [
 		docs + '*.html',

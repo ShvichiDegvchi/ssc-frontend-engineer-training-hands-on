@@ -207,7 +207,9 @@ export default {
       }).then((response) => {
         console.log(response.data);
         this.$data.results = response.data;
-        this.$data.category.init = response.data;
+        this.$data.category.init = response.data.sort((a, b) => { // 降順に並び替える
+          return this.$dayjs(b.date).unix() - this.$dayjs(a.date).unix();
+        });
         this.$data.category.pressRelease = response.data.filter((item) => item.category === 'プレス・リリース');
         this.$data.category.news = response.data.filter((item) => item.category === 'ニュース');
         this.$data.category.other = response.data.filter((item) => item.category === 'その他');

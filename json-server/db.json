@@ -310,14 +310,80 @@
   ],
   "news": [
     {
-      "date": "2023-06-09",
+      "date": "2023-07-20",
       "tag": {
         "name": "新人研修",
         "hex": "#e770aa"
       },
       "category": "その他",
-      "name": "DBS 1G 新人研修が開催決定",
+      "name": "DBS CX4G 2023/07/31 にフロントエンド新人研修が開催決定",
       "url": "/",
+      "target": null
+    },
+    {
+      "date": "2023-07-07",
+      "tag": {
+        "name": "お知らせ",
+        "hex": "#66acd8"
+      },
+      "category": "プレス・リリース",
+      "name": "鈴与シンワート、「OBC 奉行Award 2022-2023」 でProject of the Yearを受賞",
+      "url": "https://www.shinwart.co.jp/press/doc/20230707-1.html",
+      "target": null
+    },
+    {
+      "date": "2023-07-05",
+      "tag": {
+        "name": "お知らせ",
+        "hex": "#66acd8"
+      },
+      "category": "プレス・リリース",
+      "name": "鈴与シンワート、運転前アルコールチェック&検温クラウドサービス「あさレポ」対応 小型携帯用アルコール検知器の追加を発表！",
+      "url": "https://www.shinwart.co.jp/press/doc/20230705-1.html",
+      "target": null
+    },
+    {
+      "date": "2023-06-28",
+      "tag": {
+        "name": "お知らせ",
+        "hex": "#66acd8"
+      },
+      "category": "プレス・リリース",
+      "name": "鈴与シンワート、運転前アルコールチェック&検温クラウドサービス「あさレポ」 運転日報オプションの機能強化を発表！",
+      "url": "https://www.shinwart.co.jp/press/doc/20230628-1.html",
+      "target": null
+    },
+    {
+      "date": "2023-07-18",
+      "tag": {
+        "name": "コラム",
+        "hex": "#e66c00"
+      },
+      "category": "ニュース",
+      "name": "溝口知実氏『かゆいところに手が届く労務管理のツボ』第61回「自動車運転業務における時間外労働の上限規制の適用と2024年問題について」が公開されました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20230718-1.html",
+      "target": null
+    },
+    {
+      "date": "2023-07-11",
+      "tag": {
+        "name": "コラム",
+        "hex": "#e66c00"
+      },
+      "category": "ニュース",
+      "name": "川島孝一氏『ますます重要になる人事・労務のコンプライアンス』第121回「年次有給休暇と割増賃金」が公開されました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20230711-1.html",
+      "target": null
+    },
+    {
+      "date": "2023-06-30",
+      "tag": {
+        "name": "IR",
+        "hex": "#ee1c25"
+      },
+      "category": "ニュース",
+      "name": "「臨時報告書」を掲載しました。",
+      "url": "https://www.shinwart.co.jp/news/doc/20230630-1.html",
       "target": null
     },
     {
